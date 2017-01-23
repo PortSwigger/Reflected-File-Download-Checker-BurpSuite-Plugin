@@ -6,6 +6,6 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Onur Karasalihoglu
-ShortDescription: Check for reflected file downloads
+ShortDescription: Checks for reflected file downloads.
 EntryPoint: BurpSuite Plugins/Reflected File Download Checker v1.0/Reflected File Download Checker v1.0/dist/Reflected_File_Download_Checker_v1.0.jar
 BuildCommand: cd "BurpSuite Plugins/Reflected File Download Checker v1.0/Reflected File Download Checker v1.0/" && ant
