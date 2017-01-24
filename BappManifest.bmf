@@ -2,7 +2,7 @@ Uuid: 34cd4392e7e04999b9ca0cc91f58886c
 ExtensionType: 1
 Name: Reflected File Download Checker
 ScreenVersion: 1.0
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Onur Karasalihoglu
