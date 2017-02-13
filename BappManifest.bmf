@@ -1,6 +1,7 @@
 Uuid: 34cd4392e7e04999b9ca0cc91f58886c
 ExtensionType: 1
 Name: Reflected File Download Checker
+RepoName: reflected-file-download-checker
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
